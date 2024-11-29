@@ -4,8 +4,8 @@
     "label": "Architect, PhD Student",
     "image": "",
     "email": "francesco.stanziola[at]uniroma1.it",
-        "url": "fstanziola.com",
-    "summary": "Architect and PhD student at Sapienza University of Rome in the department of History, Representation and Restoration of Architecture",
+    "url": "fstanziola.com",
+    "summary": "Architect and PhD student at Sapienza University of Rome in the department of History, Representation and Restoration of Architecture"
   },
   "work": [
     {
@@ -15,10 +15,10 @@
       "startDate": "2023",
       "endDate": "on-going",
       "summary": "PhD scholarship with the municipality of Centola (SA), working on digitization and communication of architectural heritage of Centola",
-      "highlights": ["architectural survey, digitzation, cultural heritage"]
+      "highlights": ["architectural survey, digitization, cultural heritage"]
     }
   ],
-   "education": [
+  "education": [
     {
       "institution": "Sapienza University of Rome",
       "location": "Rome, Italy",
@@ -29,19 +29,18 @@
       "score": "110/110 e lode, with publication dignity",
       "thesis": "Digitalizzazione open-source e low-cost del patrimonio architettonico: il caso del borgo abbandonato di San Severino di Centola (SA)",
       "supervisor": "Alfonso Ippolito",
-      "co-supervisor": "Martina Attenni",
+      "co-supervisor": "Martina Attenni"
     },
-     {
+    {
       "institution": "Politecnico di Milano",
       "location": "Milan, Italy",
       "area": "Architecture",
-      "studyType": "Bechelor's degree",
+      "studyType": "Bachelor's degree",
       "endDate": "2020",
       "score": "110/110",
       "thesis": "La Reggia di Caserta palinsesto di Immagini della Bellezza",
       "supervisor": "Pier Federico Caliari",
-      "co-supervisors": "Greta Allegretti, Sara Ghirardini",
+      "co-supervisors": "Greta Allegretti, Sara Ghirardini"
     }
   ]
-
 }
